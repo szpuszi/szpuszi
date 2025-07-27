@@ -1,11 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=430&lines=Hi%2C+I'm+Szpuszi.;Hello%2C+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi,+I’m+szpuszi+%F0%9F%91%8B;"Hello,+World!"+%F0%9F%92%BB)](https://git.io/typing-svg)
+
 
 
 ---
 
 ## 🌍 Where to find me
 
-[![Email](https://img.shields.io/badge/E--mail-szpuszi%40mail.com-red?logo=gmail&logoColor=white)](mailto:szpuszi@gmail.com)
+[![Email](https://img.shields.io/badge/E--mail-szpuszi%40gmail.com-red?logo=gmail&logoColor=white)](mailto:szpuszi@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Szpuszi%23XXXX-5865F2?logo=discord&logoColor=white)](https://discord.com/users/699557747066273804)
 
 ---
