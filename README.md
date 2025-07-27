@@ -27,7 +27,6 @@
 
 ## 🧰 About me
 
-- Passionate about web and backend development
 - I build with HTML, CSS, JavaScript, Python, Java & Node.js
 - Automation, coding experiments, and learning something new every week
 
