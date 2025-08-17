@@ -25,6 +25,12 @@
 
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=szpuszi&theme=radical&row=1&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
+
 ## 🧰 About me
 
 - I build with HTML, CSS, JavaScript, Python, Java & Node.js
