@@ -33,7 +33,7 @@
 
 ## 🧰 About me
 
-- I build with HTML, CSS, JavaScript, Python, Java & Node.js
+- I build with Python mainly
 - Automation, coding experiments, and learning something new every week
 
 ---
