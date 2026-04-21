@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Hi,+I’m+szpuszi+%F0%9F%91%8B;"Hello,+World!"+%F0%9F%92%BB)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=F7F7F7&width=550&lines=Hi,+I’m+szpuszi+%F0%9F%91%8B;Input+Pin+not+driven+by+any+Output+Pin)](https://git.io/typing-svg)
 
 
 ---
