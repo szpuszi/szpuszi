@@ -27,8 +27,8 @@
 
 ## 🧰 About me
 
-- **Electronics enthusiast** designing custom PCBs.
-- **Constant learner** Experiments and learning something new every week
+- **Electronics enthusiast**, designing custom PCBs.
+- Experiments and learning something new every week
 
 ---
 
