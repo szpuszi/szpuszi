@@ -7,7 +7,7 @@
 ## 🌍 Where to find me
 
 [![Email](https://img.shields.io/badge/E--mail-szpuszi%40gmail.com-red?logo=gmail&logoColor=white)](mailto:szpuszi@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-szpuszi__-5865F2?logo=discord&logoColor=white)](https://discord.com/users/699557747066273804)
+[![Discord](https://img.shields.io/badge/Discord-szpuszii__-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1249852754390941756)
 
 ---
 
@@ -25,21 +25,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=szpuszi&theme=radical&row=1&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
-
 ## 🧰 About me
 
-- I build with Python mainly
-- Automation, coding experiments, and learning something new every week
+- **Electronics enthusiast** designing custom PCBs.
+- **Constant learner** Experiments and learning something new every week
 
 ---
 
-### 💡 Dev Quote
+### 💡 Engineering Quote
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> “Whatever has been done, can be outdone.” — Gordon Moore
 
 ---
