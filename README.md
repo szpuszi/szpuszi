@@ -13,7 +13,7 @@
 
 ## 🛠️ My everyday tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,python,java,arduino,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,python,arduino,github)](https://skillicons.dev)
 
 ---
 
