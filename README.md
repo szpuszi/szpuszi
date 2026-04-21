@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=F7F7F7&width=550&lines=Hi,+I’m+szpuszi+👋;Error:+Input+Pin+not+driven+by+any+Output+Pin+💻)](https://git.io/typing-svg)
+
 ---
 
 ## 🌍 Where to find me
