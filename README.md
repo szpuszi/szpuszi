@@ -10,11 +10,13 @@
 ---
 
 ## 🛠️ My everyday tech stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,github,linux" height="48" valign="middle" />
   &nbsp;
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=kicad&logoColor=white&color=314753" height="48" valign="middle" />
+  <img src="https://img.shields.io/badge/KiCad-314753?style=flat-square&logo=kicad&logoColor=white" height="48" valign="middle" />
 </p>
+
 ---
 
 ## 🧰 About me
