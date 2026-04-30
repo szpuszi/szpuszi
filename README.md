@@ -14,6 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,github,linux)](https://skillicons.dev)
 
 ---
+
 ## 🧰 About me
 
 - **Electronics enthusiast**.
@@ -30,6 +31,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szpuszi&layout=compact&theme=vision-friendly-dark&hide_border=false" />
 </p>
+
 ---
 
 ### 💡 Engineering Quote
