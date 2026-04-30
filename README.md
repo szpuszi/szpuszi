@@ -11,7 +11,7 @@
 
 ## 🛠️ My everyday tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,arduino,raspberrypi,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,github,linux)](https://skillicons.dev)
 
 ---
 ## 🧰 About me
