@@ -12,8 +12,8 @@
 ## 🛠️ My everyday tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,github,linux" height="48" valign="middle" />
-  <img src="https://img.shields.io/badge/-%20-1d1d1f?style=flat-square&logo=kicad&logoColor=white&height=48" height="48" valign="middle" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,github,linux" height="50" valign="middle" />
+  <img src="https://img.shields.io/badge/KiCad-1d1d1f?style=for-the-badge&logo=kicad&logoColor=white" height="50" valign="middle" />
 </p>
 
 ---
