@@ -23,11 +23,13 @@
 ---
 
 # 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=szpuszi&theme=vision-friendly-dark&show_icons=true&hide_border=false)
-![](https://streak-stats.demolab.com?user=szpuszi&theme=nightowl&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=szpuszi&layout=compact&theme=vision-friendly-dark&hide_border=false)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=szpuszi&theme=vision-friendly-dark&show_icons=true&hide_border=false" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=szpuszi&theme=nightowl&hide_border=false" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szpuszi&layout=compact&theme=vision-friendly-dark&hide_border=false" />
+</p>
 ---
 
 ### 💡 Engineering Quote
