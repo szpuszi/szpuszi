@@ -37,5 +37,3 @@
 ### 💡 Engineering Quote
 
 > “Whatever has been done, can be outdone.” — Gordon Moore
-
----
