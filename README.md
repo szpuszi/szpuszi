@@ -14,19 +14,19 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,python,arduino,github)](https://skillicons.dev)
 
 ---
+## 🧰 About me
+
+- **Electronics enthusiast**.
+- Designing **custom PCBs** and prototyping.
+- Experimenting and learning something new every week.
+
+---
 
 # 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=szpuszi&theme=vision-friendly-dark&show_icons=true&hide_border=false)
 ![](https://streak-stats.demolab.com?user=szpuszi&theme=nightowl&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=szpuszi&layout=compact&theme=vision-friendly-dark&hide_border=false)
-
----
-
-## 🧰 About me
-
-- **Electronics enthusiast**, designing custom PCBs.
-- Experiments and learning something new every week
 
 ---
 
