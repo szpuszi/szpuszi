@@ -13,7 +13,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,github,linux" height="50" valign="middle" />
-  <img src="https://cdn.simpleicons.org/kicad/white" height="49" valign="middle" style="background-color: #1d1d1f; border-radius: 10px; padding: 3px;" />
+  <img src="https://cdn.simpleicons.org/kicad/white" height="48" valign="middle" style="background-color: #1d1d1f; border-radius: 10px; padding: 3px;" />
 </p>
 
 ---
