@@ -2,14 +2,14 @@
 
 ---
 
-## 🌍 Where to find me
+## Where to find me
 
 [![Email](https://img.shields.io/badge/E--mail-szpuszi%40gmail.com-red?logo=gmail&logoColor=white)](mailto:szpuszi@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-szpuszii__-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1249852754390941756)
 
 ---
 
-## 🛠️ My everyday tech stack
+## My everyday tech stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,github,linux" height="50" valign="middle" />
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧰 About me
+## About me
 
 - **Electronics enthusiast**.
 - Designing **custom PCBs** and prototyping.
@@ -26,7 +26,7 @@
 
 ---
 
-# 📈 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=szpuszi&theme=vision-friendly-dark&show_icons=true&hide_border=false" />
   <br>
@@ -37,6 +37,6 @@
 
 ---
 
-### 💡 Engineering Quote
+### Engineering Quote
 
 > “Whatever has been done, can be outdone.” — Gordon Moore
