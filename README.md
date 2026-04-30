@@ -12,10 +12,8 @@
 ## 🛠️ My everyday tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,github,linux" height="50" valign="middle" />
-  <a href="https://kicad.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/kicad/white" width="32" height="32" valign="middle" style="background-color: #1d1d1f; border-radius: 10px; padding: 9px; margin-left: 2px;" alt="KiCad" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,github,linux" height="48" valign="middle" />
+  <img src="https://img.shields.io/badge/-%20-1d1d1f?style=flat-square&logo=kicad&logoColor=white&height=48" height="48" valign="middle" />
 </p>
 
 ---
