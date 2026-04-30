@@ -12,6 +12,7 @@
 ## 🛠️ My everyday tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,python,kicad,arduino,github)](https://skillicons.dev)
+[![KiCad](https://img.shields.io/badge/KiCad-314753?style=for-the-badge&logo=kicad&logoColor=white)](https://kicad.org/)
 
 ---
 
