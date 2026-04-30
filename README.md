@@ -13,7 +13,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,github,linux" height="50" valign="middle" />
-  <img src="https://cdn.simpleicons.org/kicad/white/1d1d1f?viewbox=auto&padding=20" height="50" valign="middle" style="border-radius: 10px;" />
+  <img src="https://img.shields.io/badge/-%20-1d1d1f?style=for-the-badge&logo=kicad&logoColor=white" height="50" valign="middle" />
 </p>
 
 ---
