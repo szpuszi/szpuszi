@@ -11,14 +11,14 @@
 
 ## 🛠️ My everyday tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,python,arduino,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,arduino,github)](https://skillicons.dev)
 
 ---
 ## 🧰 About me
 
 - **Electronics enthusiast**.
 - Designing **custom PCBs** and prototyping.
-- Experimenting and learning something new every week.
+- Experimenting and learning something new every single week.
 
 ---
 
