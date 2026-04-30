@@ -14,7 +14,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,arduino,raspberrypi,github,linux" height="48" valign="middle" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/kicad/white" height="40" valign="middle" alt="KiCad" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=kicad&logoColor=white&color=1d1d1f" height="48" valign="middle" style="border-radius: 10px;" />
 </p>
 
 ---
