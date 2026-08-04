@@ -35,8 +35,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szpuszi&layout=compact&theme=vision-friendly-dark&hide_border=false" />
 </p>
 
----
-
-### Engineering Quote
-
-> “Whatever has been done, can be outdone.” — Gordon Moore
