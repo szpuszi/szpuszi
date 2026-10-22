@@ -5,7 +5,7 @@
 ## Where to find me
 
 [![Email](https://img.shields.io/badge/E--mail-szpuszi%40gmail.com-red?logo=gmail&logoColor=white)](mailto:szpuszi@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-szpuszii__-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1249852754390941756)
+[![Discord](https://img.shields.io/badge/Discord-.szpuszi-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1249852754390941756)
 
 ---
 
