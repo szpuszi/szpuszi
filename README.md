@@ -18,14 +18,6 @@
 
 ---
 
-## About me
-
-- **Electronics enthusiast**.
-- Designing **custom PCBs** and prototyping.
-- Experimenting and learning something new every single week.
-
----
-
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=szpuszi&theme=vision-friendly-dark&show_icons=true&hide_border=false" />
